@@ -1,5 +1,5 @@
 # Agroculture System Project
-The Agriculture System is a platform developed to connect farmers and buyers, streamlining the buying and selling of agricultural products. The system includes a range of features and is built using HTML, JavaScript, and backend processing with PHP and database connections.
+The Agroculture System is a platform developed to connect farmers and buyers, streamlining the buying and selling of agricultural products. The system includes a range of features and is built using HTML, JavaScript, and backend processing with PHP and database connections.
 
 # Key Features:
 1. User Registration and Login: Allows both farmers and buyers to register, log in, and securely access the system.
